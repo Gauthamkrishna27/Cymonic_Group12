@@ -1,0 +1,21 @@
+customer_id,name,loyalty_tier,visit_frequency,last_visit_date
+C001,Andrea Porter,Gold,1,2026-07-19
+C002,David Castillo,Gold,4,2026-08-27
+C003,Nathan Miller,Gold,11,2026-07-19
+C004,Anthony Mccarthy,Regular,2,2026-07-29
+C005,Jonathan Turner,Silver,1,2026-08-30
+C006,Michelle Cardenas,Gold,9,2026-07-28
+C007,Amy Jarvis,Gold,4,2026-07-21
+C008,Kevin Perez,Regular,9,2026-08-09
+C009,Kenneth King,Gold,10,2026-08-18
+C010,Michael Davis,Regular,1,2026-07-18
+C011,Keith Washington,Regular,12,2026-08-08
+C012,David Lozano,Silver,3,2026-08-22
+C013,Amanda Lucas,Regular,6,2026-08-29
+C014,Annette Velasquez MD,Gold,2,2026-08-13
+C015,Amber Williams,Regular,10,2026-08-19
+C016,Samuel Harris,Regular,12,2026-08-06
+C017,Virginia Evans,Silver,7,2026-08-30
+C018,Anna Barnes,Silver,11,2026-07-27
+C019,David Barber,Regular,6,2026-07-30
+C020,Janice Harris,Gold,2,2026-09-02
